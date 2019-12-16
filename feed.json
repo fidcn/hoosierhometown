@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hoosier Hometown",
+    "description": "",
+    "home_page_url": "https://hoosierhometown.com",
+    "feed_url": "https://hoosierhometown.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hoosier Hometown Inc"
+    },
+    "items": [
+    ]
+}
